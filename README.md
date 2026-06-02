@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 타이틀 배너 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=안녕하세요,%20박정우입니다%20👋&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Business%20%7C%20HR%20%7C%20E-Commerce%20%7C%20UX%2FUI%20Design&descAlignY=62&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=320&section=header&text=안녕하세요%2C%20박정우입니다%20👋&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Business%20%7C%20HR%20%7C%20E-Commerce%20%7C%20UX%2FUI%20Design&descAlignY=62&descSize=22&animation=fadeIn" />
 
 </div>
 
@@ -9,11 +9,7 @@
 
 <div align="center">
 
-## 🙋‍♂️ About Me
-
-비즈니스 현장에서 쌓은 실무 경험과 UX/UI 디자인 감각을 함께 갖춘 멀티플레이어입니다.  
-**경영지원 → 인사관리 → 이커머스 → 디자인**으로 이어지는 다양한 커리어를 통해  
-사람, 비즈니스, 사용자를 연결하는 시각과 실행력을 키워왔습니다.
+> 💡 경영지원 · 인사관리 · 이커머스 · UX/UI 디자인을 넘나드는 실무형 멀티플레이어
 
 </div>
 
@@ -62,15 +58,45 @@
 
 ## 🧩 What I Do
 
-<div align="center">
+<details>
+<summary><b>🎯 경영 지원 · Executive Assistant</b></summary>
+<br>
 
-| 🎯 경영 지원 | 👥 인사 관리 | 🛒 이커머스 | ✏️ UX/UI 디자인 |
-|:---:|:---:|:---:|:---:|
-| 임원 일정 관리 | 채용 · 온보딩 | 상세페이지 기획 | 사용자 조사 |
-| 보고서 · 문서 작성 | 급여 · 노무 | 고객 응대(CS) | 와이어프레임 |
-| 대내외 커뮤니케이션 | 조직 문화 운영 | VOC 분석 | Figma 프로토타입 |
+- 회장 및 CEO 일정 조율 및 출장·행사 기획·운영
+- 기밀 문서 관리 및 의사결정 지원 보고서 작성
+- 사내외 주요 커뮤니케이션 창구 역할 수행
 
-</div>
+</details>
+
+<details>
+<summary><b>👥 인사 관리 · Human Resources</b></summary>
+<br>
+
+- 채용 공고, 면접 운영, 온보딩 프로세스 설계
+- 급여 · 복리후생 · 근태 관리 및 노무 업무
+- 사내 교육 프로그램 및 조직 문화 활동 운영
+
+</details>
+
+<details>
+<summary><b>🛒 이커머스 · E-Commerce MD · CS</b></summary>
+<br>
+
+- 상품 상세페이지 기획 · 콘텐츠 작성 및 업로드
+- 고객 문의 · 클레임 응대 및 VOC 데이터 분석
+- 프로모션 기획 및 상품 운영 전략 수립 참여
+
+</details>
+
+<details>
+<summary><b>✏️ UX/UI 디자인 · Design</b></summary>
+<br>
+
+- 사용자 조사 · 퍼소나 · 고객 여정 지도 작성
+- 와이어프레임 · 프로토타입 제작 (Figma)
+- UI 디자인 시스템 구축 및 가이드라인 작성
+
+</details>
 
 <br />
 
@@ -81,10 +107,11 @@
 <div align="center">
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
