@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 타이틀 배너 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:9B8FFF,100:C4BFFF&height=320&section=header&text=안녕하세요%2C%20박정우입니다%20👋&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Business%20%7C%20HR%20%7C%20E-Commerce%20%7C%20UX%2FUI%20Design&descAlignY=62&descSize=22&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:9B8FFF,100:C4BFFF&height=320&section=header&text=안녕하세요%2C%20박정우입니다%20👋&fontSize=52&fontColor=ffffff&fontAlignY=50&animation=fadeIn" />
 
 </div>
 
@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=20&duration=3500&pause=1200&color=6C63FF&center=true&vCenter=true&width=720&height=50&lines=%EA%B2%BD%EC%98%81%EC%A7%80%EC%9B%90+%C2%B7+%EC%9D%B8%EC%82%AC%EA%B4%80%EB%A6%AC+%C2%B7+%EC%9D%B4%EC%BB%A4%EB%A8%B8%EC%8A%A4+%C2%B7+UX%2FUI+%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84+%EB%84%98%EB%82%98%EB%93%9C%EB%8A%94+%EC%8B%A4%EB%AC%B4%ED%98%95+%EB%A9%80%ED%8B%B0%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4;%EC%82%AC%EB%9E%8C%2C+%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%2C+%EC%82%AC%EC%9A%A9%EC%9E%90%EB%A5%BC+%EC%97%B0%EA%B2%B0%ED%95%98%EB%8A%94+%EC%8B%9C%EA%B0%81%EA%B3%BC+%EC%8B%A4%ED%96%89%EB%A0%A5%EC%9D%84+%EA%B0%96%EC%B6%A4;Business+%7C+HR+%7C+E-Commerce+%7C+UX%2FUI+Design" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=4000&pause=2500&color=6C63FF&center=true&vCenter=true&width=520&height=44&lines=Business+%7C+HR+%7C+E-Commerce+%7C+UX%2FUI+Design" alt="Typing SVG" />
 
 </div>
 
@@ -106,13 +106,7 @@
 
 <div align="center">
 
-| 🖌️ UX/UI Design | 📋 Business Ops | 👤 HR & People |
-|:---:|:---:|:---:|
-| 사용자 중심 인터페이스 설계 | 경영 전략 지원 및 문서화 | 채용 · 온보딩 · 조직 문화 |
-
-| 🛍️ E-Commerce | 🔍 User Research | 🎨 Visual Design |
-|:---:|:---:|:---:|
-| 상품 기획 · CS · VOC 분석 | 인터뷰 · 퍼소나 · 여정 지도 | Figma · Illustrator · Blender |
+![Focus Areas](./focus-areas.svg)
 
 </div>
 
@@ -131,20 +125,6 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-<br />
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=jeongwoo-pjw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongwoo-pjw&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
