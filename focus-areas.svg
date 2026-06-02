@@ -1,9 +1,5 @@
-<svg width="780" height="360" viewBox="0 0 780 360" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Arial, sans-serif">
+<svg width="780" height="420" viewBox="0 0 780 420" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Arial, sans-serif">
   <defs>
-    <linearGradient id="fillGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#f0eeff"/>
-      <stop offset="100%" stop-color="#e4e0ff"/>
-    </linearGradient>
     <linearGradient id="strokeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#6C63FF"/>
       <stop offset="100%" stop-color="#9B8FFF"/>
@@ -13,19 +9,19 @@
   <!-- Row 1 -->
 
   <!-- UX/UI Design -->
-  <circle cx="130" cy="100" r="85" fill="url(#fillGrad)" stroke="url(#strokeGrad)" stroke-width="2.5"/>
+  <circle cx="130" cy="100" r="85" fill="none" stroke="url(#strokeGrad)" stroke-width="2.5"/>
   <text x="130" y="82"  text-anchor="middle" font-size="20" font-weight="900" fill="#6C63FF" letter-spacing="1">UX</text>
   <text x="130" y="104" text-anchor="middle" font-size="13" font-weight="700" fill="#3D3680">UX/UI Design</text>
   <text x="130" y="122" text-anchor="middle" font-size="11" fill="#8B87D0">인터페이스 설계</text>
 
   <!-- Business Ops -->
-  <circle cx="390" cy="100" r="85" fill="url(#fillGrad)" stroke="url(#strokeGrad)" stroke-width="2.5"/>
+  <circle cx="390" cy="100" r="85" fill="none" stroke="url(#strokeGrad)" stroke-width="2.5"/>
   <text x="390" y="82"  text-anchor="middle" font-size="20" font-weight="900" fill="#6C63FF" letter-spacing="1">BIZ</text>
   <text x="390" y="104" text-anchor="middle" font-size="13" font-weight="700" fill="#3D3680">Business Ops</text>
   <text x="390" y="122" text-anchor="middle" font-size="11" fill="#8B87D0">경영 전략 지원</text>
 
   <!-- HR & People -->
-  <circle cx="650" cy="100" r="85" fill="url(#fillGrad)" stroke="url(#strokeGrad)" stroke-width="2.5"/>
+  <circle cx="650" cy="100" r="85" fill="none" stroke="url(#strokeGrad)" stroke-width="2.5"/>
   <text x="650" y="82"  text-anchor="middle" font-size="20" font-weight="900" fill="#6C63FF" letter-spacing="1">HR</text>
   <text x="650" y="104" text-anchor="middle" font-size="13" font-weight="700" fill="#3D3680">HR &amp; People</text>
   <text x="650" y="122" text-anchor="middle" font-size="11" fill="#8B87D0">인사 전반 운영</text>
@@ -33,20 +29,20 @@
   <!-- Row 2 -->
 
   <!-- E-Commerce -->
-  <circle cx="130" cy="270" r="85" fill="url(#fillGrad)" stroke="url(#strokeGrad)" stroke-width="2.5"/>
-  <text x="130" y="252" text-anchor="middle" font-size="20" font-weight="900" fill="#6C63FF" letter-spacing="1">MD</text>
-  <text x="130" y="274" text-anchor="middle" font-size="13" font-weight="700" fill="#3D3680">E-Commerce</text>
-  <text x="130" y="292" text-anchor="middle" font-size="11" fill="#8B87D0">상품 기획 · CS</text>
+  <circle cx="130" cy="315" r="85" fill="none" stroke="url(#strokeGrad)" stroke-width="2.5"/>
+  <text x="130" y="297" text-anchor="middle" font-size="20" font-weight="900" fill="#6C63FF" letter-spacing="1">MD</text>
+  <text x="130" y="319" text-anchor="middle" font-size="13" font-weight="700" fill="#3D3680">E-Commerce</text>
+  <text x="130" y="337" text-anchor="middle" font-size="11" fill="#8B87D0">상품 기획 · CS</text>
 
   <!-- User Research -->
-  <circle cx="390" cy="270" r="85" fill="url(#fillGrad)" stroke="url(#strokeGrad)" stroke-width="2.5"/>
-  <text x="390" y="252" text-anchor="middle" font-size="20" font-weight="900" fill="#6C63FF" letter-spacing="1">UXR</text>
-  <text x="390" y="274" text-anchor="middle" font-size="13" font-weight="700" fill="#3D3680">User Research</text>
-  <text x="390" y="292" text-anchor="middle" font-size="11" fill="#8B87D0">리서치 · 인사이트</text>
+  <circle cx="390" cy="315" r="85" fill="none" stroke="url(#strokeGrad)" stroke-width="2.5"/>
+  <text x="390" y="297" text-anchor="middle" font-size="20" font-weight="900" fill="#6C63FF" letter-spacing="1">UXR</text>
+  <text x="390" y="319" text-anchor="middle" font-size="13" font-weight="700" fill="#3D3680">User Research</text>
+  <text x="390" y="337" text-anchor="middle" font-size="11" fill="#8B87D0">리서치 · 인사이트</text>
 
   <!-- Visual Design -->
-  <circle cx="650" cy="270" r="85" fill="url(#fillGrad)" stroke="url(#strokeGrad)" stroke-width="2.5"/>
-  <text x="650" y="252" text-anchor="middle" font-size="20" font-weight="900" fill="#6C63FF" letter-spacing="1">VIS</text>
-  <text x="650" y="274" text-anchor="middle" font-size="13" font-weight="700" fill="#3D3680">Visual Design</text>
-  <text x="650" y="292" text-anchor="middle" font-size="11" fill="#8B87D0">시각 디자인</text>
+  <circle cx="650" cy="315" r="85" fill="none" stroke="url(#strokeGrad)" stroke-width="2.5"/>
+  <text x="650" y="297" text-anchor="middle" font-size="20" font-weight="900" fill="#6C63FF" letter-spacing="1">VIS</text>
+  <text x="650" y="319" text-anchor="middle" font-size="13" font-weight="700" fill="#3D3680">Visual Design</text>
+  <text x="650" y="337" text-anchor="middle" font-size="11" fill="#8B87D0">시각 디자인</text>
 </svg>
