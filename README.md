@@ -1,4 +1,4 @@
-# Hi 👋, I'm Jeongwoo Park
+# 안녕하세요 👋, 박정우입니다
 
 **Business | HR | E-Commerce | UX/UI Design**
 
@@ -17,8 +17,27 @@
 <a href="https://github.com/jeongwoo-pjw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jeongwoo-pjw" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/framer" alt="framer" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a></p>
+<h3 align="left">Skills and Tools:</h3>
+
+**Design**
+`Figma` `Framer` `Adobe Illustrator` `Adobe Photoshop` `Blender`
+
+**Office**
+`Microsoft Excel` `Microsoft PowerPoint`
+
+**Collaboration**
+`GitHub`
+
+---
+
+## 📌 Pinned
+
+| Repository | Description |
+|------------|-------------|
+| 🌐 **[jeongwoo-pjw.github.io](https://github.com/jeongwoo-pjw/jeongwoo-pjw.github.io)** | jeongwoo's design website |
+| ✍️ **[My_handwriting](https://github.com/jeongwoo-pjw/My_handwriting)** | ai 손글씨 라이팅 |
+| 🎵 **[Portfolio_genie](https://github.com/jeongwoo-pjw/Portfolio_genie)** | 지니뮤직 앱 사용성 개선 프로젝트 |
+| 📖 **[tori-story](https://github.com/jeongwoo-pjw/tori-story)** | 어린이 동화 서비스 |
 
 ---
 
@@ -30,8 +49,6 @@
 | - | 🛒 **온라인몰 상세페이지 MD · CS 담당자** | NC백화점 온라인몰 | `E-Commerce` |
 | - | 👥 **인사관리자** | 국제산공(주) | `HR` |
 | - | 🎯 **회장 및 CEO 개인비서** | 국제산공(주) | `Business` |
-
----
 
 ## 🧩 What I Do
 
@@ -55,8 +72,6 @@
 - 와이어프레임 · 프로토타입 제작 (Figma)
 - UI 디자인 시스템 구축 및 가이드라인 작성
 
----
-
 ## 🎯 Focus Areas
 
 <div align="center">
@@ -64,21 +79,6 @@
 ![Focus Areas](./focus-areas.svg)
 
 </div>
-
----
-
-## 🛠️ Skills & Tools
-
-**Design**
-`Figma` `Framer` `Adobe Illustrator` `Adobe Photoshop` `Blender`
-
-**Office**
-`Microsoft Excel` `Microsoft PowerPoint`
-
-**Collaboration**
-`GitHub`
-
----
 
 ## 📬 Contact
 
