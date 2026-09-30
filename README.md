@@ -1,14 +1,24 @@
-<div align="center">
-
-<img src="https://github.com/jeongwoo-pjw.png" width="140" style="border-radius:50%; margin-bottom:12px;" />
-
-# 안녕하세요, 박정우입니다 👋
+# Hi 👋, I'm Jeongwoo Park
 
 **Business | HR | E-Commerce | UX/UI Design**
 
 [![GitHub followers](https://img.shields.io/github/followers/jeongwoo-pjw?style=flat-square&color=6C63FF)](https://github.com/jeongwoo-pjw)
 
-</div>
+### UX/UI DESIGNER
+
+- 🌱 I'm currently learning **AI/UXUI**
+
+- 📫 How to reach me **lbaikal1742@gmail.com**
+
+- 👨‍💻 All of my projects are available at **[https://jeongwoo-pjw.github.io/](https://jeongwoo-pjw.github.io/)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/jeongwoo-pjw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jeongwoo-pjw" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/framer" alt="framer" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a></p>
 
 ---
 
@@ -60,7 +70,7 @@
 ## 🛠️ Skills & Tools
 
 **Design**
-`Figma` `Framer` `Adobe Illustrator` `Blender`
+`Figma` `Framer` `Adobe Illustrator` `Adobe Photoshop` `Blender`
 
 **Office**
 `Microsoft Excel` `Microsoft PowerPoint`
