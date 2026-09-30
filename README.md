@@ -30,59 +30,35 @@
 
 ---
 
-## 📌 Pinned
-
-| Repository | Description |
-|------------|-------------|
-| 🌐 **[jeongwoo-pjw.github.io](https://github.com/jeongwoo-pjw/jeongwoo-pjw.github.io)** | jeongwoo's design website |
-| ✍️ **[My_handwriting](https://github.com/jeongwoo-pjw/My_handwriting)** | ai 손글씨 라이팅 |
-| 🎵 **[Portfolio_genie](https://github.com/jeongwoo-pjw/Portfolio_genie)** | 지니뮤직 앱 사용성 개선 프로젝트 |
-| 📖 **[tori-story](https://github.com/jeongwoo-pjw/tori-story)** | 어린이 동화 서비스 |
-
----
-
 ## 💼 Career
 
 | 기간 | 직책 | 회사 / 과정 | 분야 |
 |------|------|-------------|------|
-| - | 🎓 **UX/UI 디자이너 부트캠프 수료** | 부트캠프 과정 | `Design` |
-| - | 🛒 **온라인몰 상세페이지 MD · CS 담당자** | NC백화점 온라인몰 | `E-Commerce` |
-| - | 👥 **인사관리자** | 국제산공(주) | `HR` |
-| - | 🎯 **회장 및 CEO 개인비서** | 국제산공(주) | `Business` |
+| 2026 | 🤖 **AI 바이브코딩 교육 수료** | ICT 교육 과정 | `AI` |
+| 2024 | 🎓 **UX/UI 디자이너 부트캠프 수료** | 부트캠프 과정 | `Design` |
+| ~2024 | 🎯 **회장 및 CEO 개인비서** | 국제산공(주) | `Business` |
+| ~2024 | 👥 **인사관리자** | 국제산공(주) | `HR` |
+| ~2022 | 🛒 **온라인몰 상세페이지 MD · CS 담당자** | NC백화점 온라인몰 | `E-Commerce` |
 
 ## 🧩 What I Do
 
 **🎯 경영 지원 · Executive Assistant**
 - 회장 및 CEO 일정 조율 및 출장·행사 기획·운영
-- 기밀 문서 관리 및 의사결정 지원 보고서 작성
 - 사내외 주요 커뮤니케이션 창구 역할 수행
 
 **👥 인사 관리 · Human Resources**
-- 채용 공고, 면접 운영, 온보딩 프로세스 설계
 - 급여 · 복리후생 · 근태 관리 및 노무 업무
-- 사내 교육 프로그램 및 조직 문화 활동 운영
 
 **🛒 이커머스 · E-Commerce MD · CS**
 - 상품 상세페이지 기획 · 콘텐츠 작성 및 업로드
 - 고객 문의 · 클레임 응대 및 VOC 데이터 분석
-- 프로모션 기획 및 상품 운영 전략 수립 참여
 
 **✏️ UX/UI 디자인 · Design**
 - 사용자 조사 · 퍼소나 · 고객 여정 지도 작성
 - 와이어프레임 · 프로토타입 제작 (Figma)
 - UI 디자인 시스템 구축 및 가이드라인 작성
 
-## 🎯 Focus Areas
-
-<div align="center">
-
-![Focus Areas](./focus-areas.svg)
-
-</div>
-
-## 📬 Contact
-
-| Channel | Details |
-|---------|---------|
-| 📧 **Email** | [lbaikal1742@gmail.com](mailto:lbaikal1742@gmail.com) |
-| 🐙 **GitHub** | [jeongwoo-pjw](https://github.com/jeongwoo-pjw) |
+**🤖 AI 바이브코딩 · AI Vibe Coding**
+- Claude Code 등 AI 코딩 도구를 활용한 웹 서비스 기획 · 개발
+- Next.js · React 기반 프로젝트 구현 및 GitHub Pages · Vercel 배포
+- 디자인 시안을 실제 동작하는 프로토타입으로 구현
